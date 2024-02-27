@@ -1,0 +1,63 @@
+{
+    "status": 200,
+    "total": 7,
+    "message": "Successfully",
+    "data": [
+        {
+            "id": 2,
+            "name": "Product-01",
+            "price": 2.3,
+            "image": "https://storage.googleapis.com/images-sof-prd-9fa6b8b.sof.prd.v8.commerce.mi9cloud.com/product-images/cell/00762111766175.jpg",
+            "description": null,
+            "categoryId": "1"
+        },
+        {
+            "id": 3,
+            "name": "Product 1",
+            "price": 10.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinbmSk-cJm9C3ScN6mVZjWsy-20H-x405N8fz4w_sDqxfrkHGNUDlrRKsGpuaXpzXuYA&usqp=CAU",
+            "description": "Description for Product 1",
+            "categoryId": "1"
+        },
+        {
+            "id": 4,
+            "name": "Product 2",
+            "price": 19.99,
+            "image": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-78073.jpg",
+            "description": "Description for Product 2",
+            "categoryId": "2"
+        },
+        {
+            "id": 5,
+            "name": "Product 3",
+            "price": 29.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyk9Wmsc0bVMaB1w6CzNBiPP8NKVCphQDMTaZJHvNbA&s",
+            "description": "Description for Product 3",
+            "categoryId": "1"
+        },
+        {
+            "id": 6,
+            "name": "Product 4",
+            "price": 14.99,
+            "image": "https://i.ebayimg.com/images/g/zm8AAOSwQqBkdLUh/s-l1200.webp",
+            "description": "Description for Product 4",
+            "categoryId": "3"
+        },
+        {
+            "id": 7,
+            "name": "Product 5",
+            "price": 24.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8i7-VTgpNm6BkePwhTrC4RJod2S5lGfQweGQ2jlBSmFsJu_1wtayY_2IP_Faev1P0KIk&usqp=CAU",
+            "description": "Description for Product 5",
+            "categoryId": "2"
+        },
+        {
+            "id": 8,
+            "name": "Product 6",
+            "price": 34.99,
+            "image": "https://canary.contestimg.wish.com/api/webimage/5b63ae4021b77008026207af-large.jpg?cache_buster=2149338cca612b2b71b204652673ba06",
+            "description": "Description for Product 6",
+            "categoryId": "3"
+        }
+    ]
+}
