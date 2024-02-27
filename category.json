@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "total": 7,
+  "message": "Successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "latte coffee",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Shirt",
+      "description": "latte coffee",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "description": "latte coffee",
+      "image": ""
+    }
+  ]
+}
